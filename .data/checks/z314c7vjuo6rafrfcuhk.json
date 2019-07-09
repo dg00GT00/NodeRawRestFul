@@ -1,0 +1,16 @@
+{
+  "id": "z314c7vjuo6rafrfcuhk",
+  "protocol": "http",
+  "userPhone": "1234567890",
+  "url": "google.com",
+  "method": "get",
+  "successCodes": [
+    200,
+    201,
+    300,
+    301
+  ],
+  "timeoutSeconds": 1,
+  "state": "up",
+  "lastChecked": 1561043064946
+}
